@@ -3,7 +3,7 @@ description: SIR Ecosystem Guides
 
 # Urls
 url: "https://sir-lab.github.io"
-baseurl: "Ecosystem"
+baseurl: "/Ecosystem"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs@v0.5.2
