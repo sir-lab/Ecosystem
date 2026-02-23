@@ -1,0 +1,44 @@
+---
+---
+/* 强制注入 CSS 变量，绕过所有 SCSS 编译逻辑 */
+:root {
+  --nav-width: 220px !important;
+  --nav-width-md: 220px !important;
+}
+
+/* 1. 强制宽度修改 */
+@media (min-width: 64em) {
+  .side-nav {
+    width: 220px !important;
+  }
+  .main {
+    margin-left: 270px !important; /* 220px + 50px 间距 */
+  }
+  .main-header {
+    left: 270px !important;
+    width: calc(100% - 270px) !important;
+  }
+}
+
+/* 2. 彻底修复箭头重叠 */
+.nav-list-expander::before,
+.nav-list-expander::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* 3. 视觉微调 */
+.nav-list-expander svg {
+  position: relative !important;
+  top: 6px !important;
+}
+
+.nav-list-link {
+  font-size: 16px !important;
+  padding: 10px !important;
+}
+
+.site-title {
+  font-size: 16px !important;
+  white-space: nowrap !important;
+}
