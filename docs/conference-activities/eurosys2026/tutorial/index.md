@@ -59,8 +59,8 @@ permalink: /conference-activities/eurosys2026/tutorial/
     </div>
     <div style="flex: 1; text-align: center; border-left: 1px solid #eee; padding-left: 25px; min-width: 180px;">
         <img src="/static/images/speaker3.jpg" alt="Speaker" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Speaker Name</p>
-        <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Introduction</p>
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Yubo Liu</p>
+        <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Dr. Yubo Liu is a research scientist at Huawei. His research focuses on building high-performance storage, memory, and HPC systems. He has many publications in top conferences/journals like FAST and TOS. He served as a PC member and reviewer for several flagship conferences in multiple fields, including MSST, IPDPS, NAS, etc.</p>
     </div>
 </div>
 
@@ -76,4 +76,5 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Speaker Name</p>
         <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Introduction</p>
     </div>
+
 </div>
