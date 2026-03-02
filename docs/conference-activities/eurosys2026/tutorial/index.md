@@ -33,48 +33,76 @@ permalink: /conference-activities/eurosys2026/tutorial/
 </div>
 
 ---
-
-## 📘 System ⇆ AI
-
-<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 25px; align-items: flex-start; background: white;">
-    <div style="flex: 3;">
-        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.3em; font-weight: 700; margin-bottom: 15px;">Connecting openEuler with Large Models and Taking Witty (EulerCopilot) Global</h3>
-        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 1:30 - 2:30 PM</p>
-        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic 5 Abstract:</p>
+## 📘 System Operations and Optimization Acceleration in the AI Era
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
+    <div style="flex: 2.5; min-width: 0;">
+        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">Connecting openEuler with Large Models and Taking Witty (EulerCopilot) Global</h3>
+        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 2:00 - 2:40 PM</p>
+        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TBD</p>
     </div>
-    <div style="flex: 1; text-align: center; border-left: 1px solid #eee; padding-left: 25px; min-width: 180px;">
-        <img src="/static/images/speaker5.jpg" alt="Speaker" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Speaker Name</p>
-        <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Introduction</p>
+    <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+        <img src="{{ '/assets/images/speaker5.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Speaker Name</p>
+        <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
+            TBD
+        </p>
     </div>
 </div>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 25px; align-items: flex-start; background: white;">
-    <div style="flex: 3;">
-        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.3em; font-weight: 700; margin-bottom: 15px;">TrIO - A Flattened and Cooperative I/O Mechanism for Container Environments</h3>
-        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 3:00 - 4:00 PM</p>
-        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic 3 Abstract:</p>
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
+    <div style="flex: 2.5; min-width: 0;">
+        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">TrIO - A Flattened and Cooperative I/O Mechanism for Container Environments</h3>
+        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 2:40 - 3:20 PM</p>
+        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TBD</p>
     </div>
-    <div style="flex: 1; text-align: center; border-left: 1px solid #eee; padding-left: 25px; min-width: 180px;">
-        <img src="/static/images/speaker3.jpg" alt="Speaker" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Yubo Liu</p>
-        <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Dr. Yubo Liu is a research scientist at Huawei. His research focuses on building high-performance storage, memory, and HPC systems. He has many publications in top conferences/journals like FAST and TOS. He served as a PC member and reviewer for several flagship conferences in multiple fields, including MSST, IPDPS, NAS, etc.</p>
+    <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+        <img src="{{ '/assets/images/speaker3.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Yubo Liu</p>
+        <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
+            Dr. Yubo Liu is a research scientist at Huawei. His research focuses on building high-performance storage, memory, and HPC systems. He has many publications in top conferences/journals like FAST and TOS. He served as a PC member and reviewer for several flagship conferences in multiple fields, including MSST, IPDPS, NAS, etc.
+        </p>
     </div>
 </div>
 
-<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 25px; align-items: flex-start; background: white;">
-    <div style="flex: 3;">
-        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.3em; font-weight: 700; margin-bottom: 15px;">Distributed Serverless AI Computing Engine</h3>
-        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 4:30 - 5:30 PM</p>
-        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic 2 Abstract:</p>
+<div style="border: 2px dashed #e1e4e8; border-radius: 12px; padding: 20px; margin-bottom: 25px; background: #fcfcfc; display: flex; align-items: center; justify-content: center; min-width: 900px;">
+    <div style="text-align: center;">
+        <span style="font-size: 1.2em; margin-right: 15px;">☕</span>
+        <span style="font-weight: bold; color: #666; font-size: 1.1em; letter-spacing: 1px;">COFFEE BREAK / NETWORKING</span>
+        <span style="margin-left: 20px; color: #0366d6; font-weight: 600; font-size: 1.1em;">🕒 3:30 - 4:00 PM</span>
+    </div>
+</div>
+
+## 📘 System and Distributed Scheduling Solutions for AI Workloads
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
+    <div style="flex: 2.5; min-width: 0;">
+        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">LLM-LA: LLM Load-Aware Load Balancing</h3>
+        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 4:00 - 4:40 PM</p>
+        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
+        <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TVariability in LLM input and output token lengths leads to load imbalance in multi-instance serving systems, where short and long requests share queues and increase waiting time and tail latency. This tutorial introduces LLM-LA, a load-aware request management system for LLM workloads, and explains its design and practical deployment in serving frameworks to mitigate imbalance and improve efficiency, targeting practitioners working on multi-instance LLM deployment, request scheduling, and load balancing, with basic familiarity in LLM containerization and serving frameworks assumed.</p>
+    </div>
+    <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+        <img src="{{ '/assets/images/speaker5.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Haiting Wang</p>
+        <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
+            TBD
+        </p>
+    </div>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
+    <div style="flex: 2.5; min-width: 0;">
+        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">Distributed Serverless AI Computing Engine</h3>
+        <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 4:40 - 5:20 PM</p>
+        <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TBD</p>
     </div>
-    <div style="flex: 1; text-align: center; border-left: 1px solid #eee; padding-left: 25px; min-width: 180px;">
-        <img src="/static/images/speaker2.jpg" alt="Speaker" style="width: 120px; height: 120px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.05em;">Speaker Name</p>
-        <p style="font-size: 0.9em; color: #555; line-height: 1.5;">Introduction</p>
+    <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+        <img src="{{ '/assets/images/speaker2.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Speaker Name</p>
+        <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
+            TBD
+        </p>
     </div>
-
 </div>
