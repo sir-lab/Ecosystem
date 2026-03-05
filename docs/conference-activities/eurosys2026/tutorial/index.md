@@ -36,14 +36,14 @@ permalink: /conference-activities/eurosys2026/tutorial/
 ## 📘 System Operations and Optimization Acceleration in the AI Era
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
     <div style="flex: 2.5; min-width: 0;">
-        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">Connecting openEuler with Large Models and Taking Witty (EulerCopilot) Global</h3>
+        <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">Connecting openEuler with Large Models and Taking EulerCopilot Global</h3>
         <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 2:00 - 2:40 PM</p>
         <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TBD</p>
     </div>
     <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
         <img src="{{ '/assets/images/speaker5.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Speaker Name</p>
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Lu Jingxiao</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
             TBD
         </p>
@@ -80,11 +80,11 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">LLM-LA: LLM Load-Aware Load Balancing</h3>
         <p style="color: #666; font-size: 1em; margin-bottom: 15px; font-weight: 600;">📅 Time: 4:00 - 4:40 PM</p>
         <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 1em;">Topic Abstract:</p>
-        <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TVariability in LLM input and output token lengths leads to load imbalance in multi-instance serving systems, where short and long requests share queues and increase waiting time and tail latency. This tutorial introduces LLM-LA, a load-aware request management system for LLM workloads, and explains its design and practical deployment in serving frameworks to mitigate imbalance and improve efficiency, targeting practitioners working on multi-instance LLM deployment, request scheduling, and load balancing, with basic familiarity in LLM containerization and serving frameworks assumed.</p>
+        <p style="font-size: 1.05em; line-height: 1.6; color: #555;">Variability in LLM input and output token lengths leads to load imbalance in multi-instance serving systems, where short and long requests share queues and increase waiting time and tail latency. This tutorial introduces LLM-LA, a load-aware request management system for LLM workloads, and explains its design and practical deployment in serving frameworks to mitigate imbalance and improve efficiency, targeting practitioners working on multi-instance LLM deployment, request scheduling, and load balancing, with basic familiarity in LLM containerization and serving frameworks assumed.</p>
     </div>
     <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
         <img src="{{ '/assets/images/speaker5.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Haiting Wang</p>
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Saeid Ghafouri</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
             TBD
         </p>
@@ -100,9 +100,9 @@ permalink: /conference-activities/eurosys2026/tutorial/
     </div>
     <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
         <img src="{{ '/assets/images/speaker2.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
-        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Speaker Name</p>
+        <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Mohamed Kassem</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
-            TBD
+            Mohamed is currently a principal engineer and TL for the Serverless AI team at Huawei Edinburgh Research Centre. He earned his PhD in Informatics from The University of Edinburgh in 2020. His research focuses on LLM serving engines, Agentic AI and networking for AI including congestion control for distributed training jobs. Before joining Huawei, Mohamed served as postdoctoral researcher at both The University of Edinburgh and the University of Surrey. Mohamed also served as CTO of a multi-million tech company for 2 years. 
         </p>
     </div>
 </div>
