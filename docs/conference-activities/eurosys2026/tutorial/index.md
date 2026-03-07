@@ -32,7 +32,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <p style="margin: 0; font-weight: bold; color: #555; font-size: 0.9em;">📍 VENUE</p>
         <p style="margin: 8px 0 0 0; font-size: 1.1em; font-weight: 600;">Edinburgh, Scotland</p>
     </div>
-    <a href="#register" style="background-color: #007bff; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;">Register Now</a>
+    <a href="https://datalink-de.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=xffJzl8q0Kyxxm0NZdfEOoW65nZOEaNQgzcTPEFWza8=" style="background-color: #007bff; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;">Register Now</a>
 </div>
 </div>
 
@@ -49,7 +49,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <img src="{{ '/assets/images/wanglei.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
         <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Wang Lei</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
-            Chief architect of EulerCopilot, expert in foundational software architecture and systems engineering at Huawei. He has extensive practical experience in the fields of LLM Agents, Serverless, and DevOps, and is the author of several books, including "Microservice Architecture and Practice," "Core Technologies and Practices of Huawei Serverless," and "A Practical Guide to DevOps."
+            Chief architect of EulerCopilot, expert in foundational software architecture and systems engineering at Huawei. He has extensive practical experience in the fields of LLM Agents, Serverless, and DevOps, and is the author of several books, including "Microservice Architecture and Practice", "Core Technologies and Practices of Huawei Serverless" and "A Practical Guide to DevOps".
         </p>
     </div>
 </div>
@@ -89,10 +89,10 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">Variability in LLM input and output token lengths leads to load imbalance in multi-instance serving systems, where short and long requests share queues and increase waiting time and tail latency. This tutorial introduces LLM-LA, a load-aware request management system for LLM workloads, and explains its design and practical deployment in serving frameworks to mitigate imbalance and improve efficiency, targeting practitioners working on multi-instance LLM deployment, request scheduling, and load balancing, with basic familiarity in LLM containerization and serving frameworks assumed.</p>
     </div>
     <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-        <img src="{{ '/assets/images/speaker5.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <img src="{{ '/assets/images/saeid.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
         <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Saeid Ghafouri</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
-            TBD
+            Saeid Ghafouri is a machine learning systems researcher focusing on scalable AI inference infrastructure and the deployment of machine learning models in distributed cloud environments. He received his PhD in Computer Science from Queen Mary University of London and is currently a Research Scientist at Huawei Technologies R&D in Edinburgh, where he works on optimizing large language model (LLM) serving infrastructure and distributed inference systems. His research interests include ML inference systems, Kubernetes-based resource management, and efficient deployment of deep learning models on distributed platforms.
         </p>
     </div>
 </div>
