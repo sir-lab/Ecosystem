@@ -8,8 +8,9 @@ has_toc: false
 permalink: /conference-activities/eurosys2026/tutorial/
 ---
 
-# 📖 Tutorial: Systems for AI & AI for Systems (SAIS)
+<h1 style="white-space: nowrap;">📖 Tutorial: Systems for AI & AI for Systems (SAIS)</h1>
 
+<div style="min-width: 900px;">
 <div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-left: 5px solid #28a745; padding: 25px; border-radius: 12px; margin: 25px 0 30px 0; box-shadow: 0 4px 12px rgba(40,167,69,0.1);">
     <h2 style="margin: 0 0 15px 0; color: #155724; font-size: 1.3em; font-weight: 700;">🎯 Tutorial Overview</h2>
     <p style="font-size: 1.05em; line-height: 1.7; color: #155724; margin-bottom: 15px;">
@@ -19,7 +20,9 @@ permalink: /conference-activities/eurosys2026/tutorial/
         The tutorial is structured around two complementary tracks: <strong>Systems for AI</strong> and <strong>AI for Systems</strong>. The former focuses on heterogeneous resource management, distributed runtimes, and container-oriented data-path optimization to improve efficiency and scalability of AI execution. The latter explores how AI enhances system intelligence through observability, agent-aware scheduling, and large-model integration into system development and operational workflows.
     </p>
 </div>
+</div>
 
+<div style="min-width: 900px;">
 <div style="background-color: #f0f7ff; border-left: 5px solid #007bff; padding: 25px; border-radius: 12px; margin-bottom: 30px; display: flex; justify-content: space-between; align-items: center;">
     <div>
         <p style="margin: 0; font-weight: bold; color: #555; font-size: 0.9em;">📅 EVENT DATE & TIME</p>
@@ -31,9 +34,10 @@ permalink: /conference-activities/eurosys2026/tutorial/
     </div>
     <a href="#register" style="background-color: #007bff; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;">Register Now</a>
 </div>
+</div>
 
 ---
-## 📘 System Operations and Optimization Acceleration in the AI Era
+<h2 style="white-space: nowrap;">📘 System Operations and Optimization Acceleration in the AI Era</h2>
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
     <div style="flex: 2.5; min-width: 0;">
         <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">EulerCopilot: Key Technologies and Practices of Intelligent Fault Diagnosis and Optimization in openEuler</h3>
@@ -66,6 +70,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
     </div>
 </div>
 
+<div style="min-width: 900px;">
 <div style="border: 2px dashed #e1e4e8; border-radius: 12px; padding: 20px; margin-bottom: 25px; background: #fcfcfc; display: flex; align-items: center; justify-content: center; min-width: 900px;">
     <div style="text-align: center;">
         <span style="font-size: 1.2em; margin-right: 15px;">☕</span>
@@ -73,8 +78,9 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <span style="margin-left: 20px; color: #0366d6; font-weight: 600; font-size: 1.1em;">🕒 3:30 - 4:00 PM</span>
     </div>
 </div>
+</div>
 
-## 📘 System and Distributed Scheduling Solutions for AI Workloads
+<h2 style="white-space: nowrap;">📘 System and Distributed Scheduling Solutions for AI Workloads</h2>
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 30px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); display: flex; gap: 30px; align-items: stretch; background: white; min-width: 900px;">
     <div style="flex: 2.5; min-width: 0;">
         <h3 style="margin-top: 0; color: #0366d6; font-size: 1.35em; font-weight: 700; margin-bottom: 15px;">LLM-LA: LLM Load-Aware Load Balancing</h3>
@@ -99,7 +105,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
         <p style="font-size: 1.05em; line-height: 1.6; color: #555;">TBD</p>
     </div>
     <div style="flex: 1.5; text-align: center; border-left: 1px solid #eee; padding-left: 30px; min-width: 350px; display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
-        <img src="{{ '/assets/images/speaker2.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
+        <img src="{{ '/assets/images/mohamed.jpg' | relative_url }}" alt="Speaker" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0;">
         <p style="margin: 15px 0 8px 0; font-weight: bold; color: #0366d6; font-size: 1.1em;">Mohamed Kassem</p>
         <p style="font-size: 0.92em; color: #555; line-height: 1.6; text-align: left; width: 100%;">
             Mohamed is currently a principal engineer and TL for the Serverless AI team at Huawei Edinburgh Research Centre. He earned his PhD in Informatics from The University of Edinburgh in 2020. His research focuses on LLM serving engines, Agentic AI and networking for AI including congestion control for distributed training jobs. Before joining Huawei, Mohamed served as postdoctoral researcher at both The University of Edinburgh and the University of Surrey. Mohamed also served as CTO of a multi-million tech company for 2 years. 
