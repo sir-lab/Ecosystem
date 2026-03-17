@@ -32,7 +32,8 @@ permalink: /conference-activities/eurosys2026/tutorial/
     <a href="https://datalink-de.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=xffJzl8q0Kyxxm0NZdfEOoW65nZOEaNQgzcTPEFWza8=" style="background-color: #007bff; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;">Register Now</a>
 </div>
 
----
+<hr>
+
 <h2>📘 System Operations and Optimization Acceleration in the AI Era</h2>
 
 <!-- Card 1 -->
@@ -133,5 +134,4 @@ permalink: /conference-activities/eurosys2026/tutorial/
   <h2 style="color: #856404; margin-bottom: 10px; font-size: 1.5em;">🎁 Collect All Puzzle Pieces & Win a Prize!</h2>
   <p style="color: #856404; font-size: 1.05em; margin-bottom: 25px;">Attend all tutorials, collect every puzzle piece, and bring them to the registration desk to claim your reward.</p>
   <img src="{{ '/assets/images/final.PNG' | relative_url }}" alt="Prize" style="max-width: 350px; width: 100%; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
-</div>
 </div>
