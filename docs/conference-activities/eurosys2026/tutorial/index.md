@@ -32,7 +32,8 @@ permalink: /conference-activities/eurosys2026/tutorial/
     <a href="https://datalink-de.gtsdata.huawei.com/datalinkpro/web/#/openFormFill?hashcode=xffJzl8q0Kyxxm0NZdfEOoW65nZOEaNQgzcTPEFWza8=" style="background-color: #007bff; color: white; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1em;">Register Now</a>
 </div>
 
----
+<hr>
+
 <h2>📘 System Operations and Optimization Acceleration in the AI Era</h2>
 
 <!-- Card 1 -->
