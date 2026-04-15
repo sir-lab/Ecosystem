@@ -90,17 +90,17 @@ permalink: /conference-activities/eurosys2026/tutorial/
 
 <!-- Card 3 -->
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: white;">
-    <h3 style="margin-top: 0; color: #0366d6; font-size: 1.2em; font-weight: 700; margin-bottom: 10px;">IB - TBD</h3>
+    <h3 style="margin-top: 0; color: #0366d6; font-size: 1.2em; font-weight: 700; margin-bottom: 10px;">CLYDE - Accelerating AI Artifact Distribution In Cloud Native Environment</h3>
     <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 11:00 - 11:40 AM</p>
     <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
         <div style="flex: 1; min-width: 200px;">
             <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 0.95em;">Topic Abstract:</p>
-            <p style="font-size: 0.95em; line-height: 1.6; color: #555; margin: 0;">TBD</p>
+            <p style="font-size: 0.95em; line-height: 1.6; color: #555; margin: 0;">Clyde is an open-source, high-performance peer-to-peer acceleration engine for large-scale data delivery in AI and cloud-native environments. It leverages efficient peer discovery and local data sharing to reduce network overhead and improve distribution efficiency for artifacts such as machine learning models and software packages.</p>
         </div>
         <div style="width: 160px; flex-shrink: 0; text-align: center;">
-            <img src="{{ '/assets/images/jianhai.jpg' | relative_url }}" alt="Speaker" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0; display: block; margin: 0 auto 8px auto;">
-            <p style="margin: 0 0 6px 0; font-weight: bold; color: #0366d6; font-size: 0.95em;">TBD</p>
-            <p style="font-size: 0.82em; color: #555; line-height: 1.5; margin: 0; text-align: left;">TBD</p>
+            <img src="{{ '/assets/images/sheriffo.jpg' | relative_url }}" alt="Speaker" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0; display: block; margin: 0 auto 8px auto;">
+            <p style="margin: 0 0 6px 0; font-weight: bold; color: #0366d6; font-size: 0.95em;">Sheriffo Ceesay</p>
+            <p style="font-size: 0.82em; color: #555; line-height: 1.5; margin: 0; text-align: left;">Sheriffo Ceesay is a Senior Research Engineer at Huawei, focusing on distributed systems, AI infrastructure, and cloud computing. He is also the maintainer of Clyde, an open-source peer-to-peer data acceleration engine.</p>
         </div>
         <div style="width: 140px; flex-shrink: 0; text-align: center;">
             <p style="font-size: 0.85em; color: #999; margin-bottom: 8px; font-weight: 600;">🧩 Mystery Gift Piece</p>
