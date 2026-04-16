@@ -99,8 +99,8 @@ permalink: /conference-activities/eurosys2026/tutorial/
         </div>
         <div style="width: 160px; flex-shrink: 0; text-align: center;">
             <img src="{{ '/assets/images/sheriffo.jpg' | relative_url }}" alt="Speaker" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0; display: block; margin: 0 auto 8px auto;">
-            <p style="margin: 0 0 6px 0; font-weight: bold; color: #0366d6; font-size: 0.95em;">Sheriffo Ceesay</p>
-            <p style="font-size: 0.82em; color: #555; line-height: 1.5; margin: 0; text-align: left;">Sheriffo Ceesay is a Senior Research Engineer at Huawei, focusing on distributed systems, AI infrastructure, and cloud computing. He is also the maintainer of Clyde, an open-source peer-to-peer data acceleration engine.</p>
+            <p style="margin: 0 0 6px 0; font-weight: bold; color: #0366d6; font-size: 0.95em;">Dr. Sheriffo Ceesay</p>
+            <p style="font-size: 0.82em; color: #555; line-height: 1.5; margin: 0; text-align: left;">Dr. Sheriffo Ceesay is a Senior Research Engineer at Huawei, focusing on distributed systems, AI infrastructure, and cloud computing. He is also the maintainer of Clyde, an open-source peer-to-peer data acceleration engine.</p>
         </div>
         <div style="width: 140px; flex-shrink: 0; text-align: center;">
             <p style="font-size: 0.85em; color: #999; margin-bottom: 8px; font-weight: 600;">🧩 Mystery Gift Piece</p>
