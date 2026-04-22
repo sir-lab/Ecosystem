@@ -60,7 +60,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
 <!-- Card 2 -->
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: white;">
     <h3 style="margin-top: 0; color: #0366d6; font-size: 1.2em; font-weight: 700; margin-bottom: 10px;">openYuanrong - Distributed Serverless AI Computing Engine</h3>
-    <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 11:40 AM - 12:20 PM</p>
+    <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 09:40 - 10:20 AM</p>
     <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
         <div style="flex: 1; min-width: 200px;">
             <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 0.95em;">Topic Abstract:</p>
@@ -113,7 +113,7 @@ permalink: /conference-activities/eurosys2026/tutorial/
 <!-- Card 4 -->
 <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: white;">
     <h3 style="margin-top: 0; color: #0366d6; font-size: 1.2em; font-weight: 700; margin-bottom: 10px;">openEuler AgentOS - Practices of Intelligent Fault Diagnosis and Tuning in openEuler</h3>
-    <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 09:40 - 10:20 AM</p>
+    <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 11:40 AM - 12:20 PM</p>
     <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
         <div style="flex: 1; min-width: 200px;">
             <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 0.95em;">Topic Abstract:</p>
