@@ -131,6 +131,23 @@ permalink: /conference-activities/eurosys2026/tutorial/
     </div>
 </div>
 
+<!-- Closing Speech -->
+<div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 24px; margin-bottom: 25px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); background: white;">
+    <h3 style="margin-top: 0; color: #0366d6; font-size: 1.2em; font-weight: 700; margin-bottom: 10px;">Closing Speech</h3>
+    <p style="color: #666; font-size: 0.95em; margin-bottom: 12px; font-weight: 600;">📅 Time: 12:20 - 12:40 PM</p>
+    <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 200px;">
+            <p style="font-weight: bold; color: #666; margin-bottom: 8px; font-size: 0.95em;">Abstract:</p>
+            <p style="font-size: 0.95em; line-height: 1.6; color: #555; margin: 0;">This closing session provides a brief summary of the tutorial and reflects on the key themes discussed. It also offers an overview of the Boole Research Centre and concludes with a short outlook on future directions and collaboration opportunities.</p>
+        </div>
+        <div style="width: 160px; flex-shrink: 0; text-align: center;">
+            <img src="{{ '/assets/images/renyang.jpg' | relative_url }}" alt="Speaker" style="width: 90px; height: 90px; border-radius: 50%; object-fit: cover; border: 3px solid #f0f0f0; display: block; margin: 0 auto 8px auto;">
+            <p style="margin: 0 0 6px 0; font-weight: bold; color: #0366d6; font-size: 0.95em;">Dr. Yang Ren</p>
+            <p style="font-size: 0.82em; color: #555; line-height: 1.5; margin: 0; text-align: left;">Dr. Yang Ren is Director of the Huawei Edinburgh Research Centre, holding a PhD in Computer Science with a focus on database systems. He previously served as a Senior Expert at the Xi’an Research Centre, contributing to database research and development.</p>
+        </div>
+    </div>
+</div>
+
 <div style="background: linear-gradient(135deg, #fff8e1, #fff3cd); border: 2px solid #ffc107; border-radius: 12px; padding: 40px; margin-top: 40px; text-align: center;">
   <h2 style="color: #856404; margin-bottom: 10px; font-size: 1.5em;">🎁 Collect All Puzzle Pieces & Win a Prize!</h2>
   <p style="color: #856404; font-size: 1.05em; margin-bottom: 25px;">Attend all tutorials, collect every puzzle piece, and bring them to the registration desk to claim your reward.</p>
